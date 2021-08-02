@@ -26,6 +26,11 @@ int main(){
   ios_base::sync_with_stdio(false);
 
   cin>>v>>e;
+
+  for (int i = 1; i <= v; i++) {
+    parent[i] = i;
+  }
+
   for (int i = 0; i < e; i++) {
     int a, b, cost;
     cin>>a>>b>>cost;
