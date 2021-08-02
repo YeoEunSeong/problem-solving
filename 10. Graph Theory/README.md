@@ -12,3 +12,7 @@
 ### 3. spanningTree.cpp
 - Kruskal 알고리즘을 이용한 신장트리 예제
 - 1과 2가 3에서 쓰인다.
+
+### 4. teamBuilding.cpp
+- 책이 팀 결성 예제 문제
+- 문제 및 풀이: https://velog.io/@e7838752/teamBuilding
