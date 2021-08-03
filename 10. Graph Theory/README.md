@@ -28,3 +28,6 @@
 ### 7. boj1922.cpp
 - 백준 최소 신장 트리 문제
 - 문제 및 풀이: https://velog.io/@e7838752/BOJ1922
+
+### 8. cirriculum.cpp
+- 책 커리큘럼 예제
