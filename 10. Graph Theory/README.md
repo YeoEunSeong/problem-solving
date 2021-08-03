@@ -31,3 +31,7 @@
 
 ### 8. cirriculum.cpp
 - 책 커리큘럼 예제
+
+### 9. connectIsland.cpp
+- 프로그래머스 최소 신장 트리 문제
+- 문제 및 풀이: https://velog.io/@e7838752/programmers-connectIsland
