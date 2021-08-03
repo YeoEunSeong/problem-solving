@@ -12,7 +12,7 @@ void topologySort() {
   vector<int> result;
   queue<int> q;
 
-  for (int i = 1; i < v; i++) {
+  for (int i = 1; i <= v; i++) {
     if(indegree[i] == 0) q.push(i);
   }
 
