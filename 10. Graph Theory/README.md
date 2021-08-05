@@ -48,3 +48,6 @@
 - 책 유제 문제
 - 문제 및 풀이: https://velog.io/@e7838752/tripPaln
 
+### 13. gate.cpp
+- 책 유제 문제
+- 문제 및 풀이: https://velog.io/@e7838752/gate
