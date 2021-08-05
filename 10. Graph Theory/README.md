@@ -43,3 +43,8 @@
 ### 11. boj4386.cpp
 - 백준 최소 신장 트리 문제
 - 문제 및 풀이: https://velog.io/@e7838752/BOJ4386
+
+### 12. tripPlan.cpp
+- 책 유제 문제
+- 문제 및 풀이: https://velog.io/@e7838752/tripPaln
+
