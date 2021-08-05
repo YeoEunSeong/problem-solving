@@ -1,4 +1,4 @@
-// 문제와 풀이 블로그 https://velog.io/@e7838752/BOJ1197
+// 문제와 풀이 블로그 https://velog.io/@e7838752/BOJ1922
 #include <iostream>
 #include <vector>
 #include <algorithm>
