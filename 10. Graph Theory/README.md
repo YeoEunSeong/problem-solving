@@ -51,3 +51,8 @@
 ### 13. gate.cpp
 - 책 유제 문제
 - 문제 및 풀이: https://velog.io/@e7838752/gate
+
+### 14. darkRoad.cpp
+- 책 유제 문제
+- 크루스칼 알고리즘, 최소 신장 트리
+- 문제 및 풀이: https://velog.io/@e7838752/darkRoad
