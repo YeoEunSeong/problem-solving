@@ -110,3 +110,7 @@ int main(void) {
 - 이진 탐색 유제
 - 책 유제 고정점 찾기
 - 문제 및 풀이: https://velog.io/@e7838752/15-2
+
+### 6.router.cpp
+- 책 유제 및 백준 이진 탐색 문제
+- 문제 및 풀이: https://velog.io/@e7838752/BOJ2110
