@@ -10,7 +10,7 @@ vector<pair<int, pair<int, int> > > edges;
 
 int findParent(int x) {
   if(parent[x] == x) return x;
-  else return findParent(parent[x]);
+  else return parent[x] = findParent(parent[x]);
 }
 
 void unoinParent(int a, int b) {

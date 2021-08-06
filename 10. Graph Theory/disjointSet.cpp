@@ -9,7 +9,7 @@ int parent[1000001];
 
 int findParent(int x) {
   if(parent[x] == x) return x;
-  else return findParent(parent[x]);
+  else return parent[x] = findParent(parent[x]);
 }
 
 void unionParent(int a, int b) {
