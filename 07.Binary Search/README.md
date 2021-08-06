@@ -105,3 +105,8 @@ int main(void) {
 ### 4. ricecake.cpp
 - 이진 탐색 기본 예제, 파라메트릭 서치(Parametric Search) 문제
 - 책 예제 떡볶이 떡 만들기
+
+### 5. fixedPoint.cpp
+- 이진 탐색 유제
+- 책 유제 고정점 찾기
+- 문제 및 풀이: https://velog.io/@e7838752/15-2
