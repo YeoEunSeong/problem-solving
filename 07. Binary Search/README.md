@@ -134,3 +134,7 @@ int countByRange(vector<data_type> &arr, data_type leftValue, data_type rightVal
 ### 9. boj13702.cpp
 - 백준 이진 탐색 문제
 - 문제 및 풀이: https://velog.io/@e7838752/BOJ13702
+
+### 10. boj1300.cpp
+- 백준 이진 탐색 문제
+- 문제 및 풀이: https://velog.io/@e7838752/BOJ1300
