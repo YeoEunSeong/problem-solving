@@ -290,3 +290,7 @@ int main() {
 ### 20. boj16562.cpp
 - 백준 분리 집합 문제
 - 문제 및 풀이: https://velog.io/@e7838752/BOJ16562
+
+### 21. boj20040.cpp
+- 백준 분리 집합 문제
+- 문제 및 풀이: https://velog.io/@e7838752/BOJ20040
