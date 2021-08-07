@@ -118,6 +118,14 @@ int main(void) {
 ### 7. countByRange.cpp
 - 책 이진 탐색 유제
 - 문제 및 풀이: https://velog.io/@e7838752/countByRange
+```cpp
+int countByRange(vector<data_type> &arr, data_type leftValue, data_type rightValue) {
+  vector<data_type>::iterator rightIndex = upper_bound(arr.begin(), arr.end(), rightValue);
+  vector<data_type>::iterator leftIndex = lower_bound(arr.begin(), arr.end(), leftValue);
+
+  return rightIndex - leftIndex;
+}
+```
 
 ### 8. findLyrics.cpp
 - 책 이진 탐색 문제 && 프로그래머스 문제 && 카카오 코딩테스트 기출 문제
