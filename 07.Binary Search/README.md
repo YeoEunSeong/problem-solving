@@ -114,3 +114,7 @@ int main(void) {
 ### 6.router.cpp
 - 책 유제 및 백준 이진 탐색 문제
 - 문제 및 풀이: https://velog.io/@e7838752/BOJ2110
+
+### 7. countByRange.cpp
+- 책 이진 탐색 유제
+- 문제 및 풀이: https://velog.io/@e7838752/countByRange
