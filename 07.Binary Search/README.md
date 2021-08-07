@@ -118,3 +118,7 @@ int main(void) {
 ### 7. countByRange.cpp
 - 책 이진 탐색 유제
 - 문제 및 풀이: https://velog.io/@e7838752/countByRange
+
+### 8. findLyrics.cpp
+- 책 이진 탐색 문제 && 프로그래머스 문제 && 카카오 코딩테스트 기출 문제
+- 문제 및 풀이: https://velog.io/@e7838752/programmers-findLyrics
