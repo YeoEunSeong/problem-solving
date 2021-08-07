@@ -122,3 +122,7 @@ int main(void) {
 ### 8. findLyrics.cpp
 - 책 이진 탐색 문제 && 프로그래머스 문제 && 카카오 코딩테스트 기출 문제
 - 문제 및 풀이: https://velog.io/@e7838752/programmers-findLyrics
+
+### 9. boj13702.cpp
+- 백준 이진 탐색 문제
+- 문제 및 풀이: https://velog.io/@e7838752/BOJ13702
