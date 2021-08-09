@@ -294,3 +294,7 @@ int main() {
 ### 21. boj20040.cpp
 - 백준 분리 집합 문제
 - 문제 및 풀이: https://velog.io/@e7838752/BOJ20040
+
+### 22. roomAssignment.cpp
+- 프로그래머스 방 배정 문제
+- 문제 및 풀이: https://velog.io/@e7838752/programmers-roomAssignment
