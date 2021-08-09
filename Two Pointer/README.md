@@ -7,4 +7,8 @@
 
 ### 2. boj2470.cpp
 - 투 포인터 유제
-- https://velog.io/@e7838752/BOJ2470
+- 문제 및 풀이: https://velog.io/@e7838752/BOJ2470
+
+### 3. boj1806.cpp
+- 투 포인터 유제
+- 문제 및 풀이: https://velog.io/@e7838752/BOJ1806
