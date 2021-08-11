@@ -297,4 +297,8 @@ int main() {
 
 ### 22. roomAssignment.cpp
 - 프로그래머스 방 배정 문제
-- 문제 및 풀이: https://velog.io/@e7838752/programmers-roomAssignment
+- 문제 및 풀이: https://velog.io/@e7838752/programmers-roomAssignment\
+
+### 23. boj6497.cpp
+- 백준 최소 신장 트리 문제
+- 문제 및 풀이: https://velog.io/@e7838752/BOJ6497
