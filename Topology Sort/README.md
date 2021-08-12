@@ -69,3 +69,7 @@ int main() {
 ### boj2252.cpp
 - 백준 위상 정렬 문제
 - 문제 및 풀이: https://velog.io/@e7838752/boj2252
+
+### boj1766.cpp
+- 우선 순위 큐가 가미된 위상 정렬 문제
+- 문제 및 풀이: https://velog.io/@e7838752/boj1766
