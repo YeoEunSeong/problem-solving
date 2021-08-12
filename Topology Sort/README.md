@@ -61,3 +61,7 @@ int main() {
 ### boj1516.cpp
 - 백준 위상 정렬 문제
 - 문제 및 풀이: https://velog.io/@e7838752/BOJ1516
+
+### boj2056.cpp
+- 백준 위상 정렬 문제
+- 문제 및 풀이: https://velog.io/@e7838752/boj2056
