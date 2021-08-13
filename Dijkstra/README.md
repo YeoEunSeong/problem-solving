@@ -24,3 +24,6 @@
 - [ImprovedDijkstar.cpp](https://github.com/YeoEunSeong/problem-solving/blob/master/Dijkstra/improvedDijkstra.cpp)
 - `최단 거리가 가장 짧은 노드`를 찾기 위해 힙 자료구조 사용
 - 시간 복잡도: O(E㏒V)
+
+### telegram.cpp
+- 다익스트라 기본 예제
