@@ -27,6 +27,7 @@
 
 ### telegram.cpp
 - 다익스트라 기본 예제
+- 문제 및 풀이: https://velog.io/@e7838752/telegram
 
 ### boj1504.cpp
 - 백준 다익스트라 문제
