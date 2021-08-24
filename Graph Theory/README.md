@@ -250,3 +250,7 @@ int main(){
 ### boj14621.cpp
 - 백준 최소 신장 트리 문제
 - 문제 및 풀이: https://velog.io/@e7838752/B
+
+### boj1707.cpp
+- 백준 이분 그래프 문제
+- 문제 및 풀이: https://velog.io/@e7838752/boj1707
