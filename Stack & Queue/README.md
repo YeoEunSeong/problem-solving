@@ -2,7 +2,7 @@
 
 ### 기능개발
 - programmers42586.cpp
-- 문제 및 풀이: https://velog.io/@e7838752/programmers42584
+- 문제 및 풀이: https://velog.io/@e7838752/programmers42586
 
 ### 프린터
 - programmes42587.cpp

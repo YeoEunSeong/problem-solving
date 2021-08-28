@@ -1,4 +1,4 @@
-// 문제 및 풀이: https://velog.io/@e7838752/programmers42584
+// 문제 및 풀이: https://velog.io/@e7838752/programmers42586
 #include <string>
 #include <vector>
 
