@@ -4,3 +4,6 @@
 - programmers42586.cpp
 - 문제 및 풀이: https://velog.io/@e7838752/programmers42584
 
+### 프린터
+- programmes42587.cpp
+- 문제 및 풀이: https://velog.io/@e7838752/programmers42587
