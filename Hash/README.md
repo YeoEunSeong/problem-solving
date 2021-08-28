@@ -4,6 +4,10 @@
 - programmers42576.cpp
 - 문제 및 풀이: https://velog.io/@e7838752/programmers42576
 
+### 위장
+- programmers42578.cpp
+- 문제 및 풀이: https://velog.io/@e7838752/programmers42578
+
 ### 베스트 앨범
 - programmers42579.cpp
 - 문제 및 풀이: https://velog.io/@e7838752/programmers42579
