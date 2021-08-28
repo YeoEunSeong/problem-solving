@@ -7,3 +7,7 @@
 ### 프린터
 - programmers42587.cpp
 - 문제 및 풀이: https://velog.io/@e7838752/programmers42587
+
+### 주식가격
+- programmers42584.cpp
+- 문제 및 풀이: https://velog.io/@e7838752/programmers42584
