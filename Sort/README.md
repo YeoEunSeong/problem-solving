@@ -5,6 +5,8 @@
 - 문제 및 풀이: https://velog.io/@e7838752/programmers42748
 
 ### 2. 가장 큰 수
+- programmers42746.cpp
+- 문제 및 풀이: https://velog.io/@e7838752/programmers42746
 
 ### 3. H-Index
 - progammers42747.cpp
