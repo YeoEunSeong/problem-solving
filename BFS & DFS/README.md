@@ -6,7 +6,8 @@
 - 문제 및 풀이: https://velog.io/@e7838752/programmers43165
 
 ### 2. 네트워크
-
+- programmers43162.cpp
+- 문제 및 풀이: https://velog.io/@e7838752/programmers43162
 
 ### 3. 단어 변환
 - programmers43163.cpp
