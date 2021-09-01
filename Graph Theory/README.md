@@ -111,7 +111,7 @@ int main(){
 }
 
 ```
-###spanningTree.cpp
+### spanningTree.cpp
 - Kruskal 알고리즘을 이용한 신장트리 예제
 - 1과 2가 3에서 쓰인다.
 ```cpp
@@ -174,23 +174,23 @@ int main(){
 
 
 
-###teamBuilding.cpp
+### teamBuilding.cpp
 - 책 팀 결성 예제 문제
 - 문제 및 풀이: https://velog.io/@e7838752/teamBuilding
 
-###cityDivision.cpp
+### cityDivision.cpp
 - 책 도시 분할 계획 예제 문제 && 백준 문제
 - 문제 및 풀이: https://velog.io/@e7838752/BOJ1647
 
-###boj1197.cpp
+### boj1197.cpp
 - 백준 최소 신장 트리 문제
 - 문제 및 풀이: https://velog.io/@e7838752/BOJ1197
 
-###boj1922.cpp
+### boj1922.cpp
 - 백준 최소 신장 트리 문제
 - 문제 및 풀이: https://velog.io/@e7838752/BOJ1922
 
-###cirriculum.cpp
+### cirriculum.cpp
 - 책 커리큘럼 예제
 
 ### connectIsland.cpp
