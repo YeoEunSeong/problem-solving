@@ -8,3 +8,7 @@
 ### 3. 등굣길
 - programmers42898.cpp
 - 문제 및 풀이: https://velog.io/@e7838752/programmers42898
+
+### 4. 도둑질
+- programmers42879.cpp
+- 문제 및 풀이: https://velog.io/@e7838752/programmers42897
