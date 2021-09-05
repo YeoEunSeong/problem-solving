@@ -6,6 +6,8 @@
 - 문제 및 풀이: https://velog.io/@e7838752/programmers42840
 
 ### 2. 소수 찾기
+- programmers42839.cpp
+- 문제 및 풀이: https://velog.io/@e7838752/programmers42839
 
 ### 3. 카펫
 - programmers42842.cpp
