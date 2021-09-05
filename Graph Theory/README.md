@@ -150,7 +150,7 @@ int main(){
 
   for (int i = 0; i < e; i++) {
     int a, b, cost;
-    cin>>a>>b>>cost;
+    cin >> a >> b >> cost;
     edges.push_back( {cost, {a, b}} );
   }
   
@@ -169,7 +169,6 @@ int main(){
     
   cout<<totalCost;
 }
-
 ```
 
 
