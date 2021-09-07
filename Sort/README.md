@@ -11,3 +11,10 @@
 ### 3. H-Index
 - progammers42747.cpp
 - 문제 및 풀이: https://velog.io/@e7838752/programmers42747
+
+## 그 외 정렬 문제
+
+### 1. 복서 정렬하기
+- 프로그래머스 위클리 챌린지 6주차 문제
+- programmers85002.cpp
+- 문제 및 풀이: https://velog.io/@e7838752/programmers85002
