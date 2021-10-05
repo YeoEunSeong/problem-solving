@@ -1,4 +1,4 @@
-function prefixSort(s) {
+function suffixSort(s) {
   let arr = [];
   for (let i = 0; i < s.length; i++) {
     arr.push(s.substring(i));
@@ -8,4 +8,4 @@ function prefixSort(s) {
   return arr; 
 }
 
-console.log(prefixSort("kseaedu"));
+console.log(suffixSort("kseaedu"));
