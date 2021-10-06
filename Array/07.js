@@ -11,7 +11,7 @@ function solution(nums) {
   for (let i = nums.length - 1; i >= 0; i--) {
     d = nums[i] === 1 ? 0 : d + 1;
     dist[i] = Math.min(dist[i], d);
-    answer = Math.max(answer, dist[i]);
+    answer = Math.max(answer, dist[i]); // Or Use answer = Math.max(...dist[i]); out of loop
   }
 
   return answer;
