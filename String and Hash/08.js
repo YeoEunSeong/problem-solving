@@ -3,7 +3,6 @@ function classLeader(str) {
 
   for (const x of str) {
     result.set(x, (result.get(x) || 0) + 1);
-    // if (votes.get(x))
   }
 
   let answer;
