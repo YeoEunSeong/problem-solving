@@ -9,9 +9,9 @@ function isExclusive(arr) {
 }
 
 function distinguiushStr(arr) {
-  arr.sort(function (a, b) { return b.length - a.length});
+  arr.sort((a, b) => b.length - a.length);
 
-  for (let i = 1; i < arr[0].length; i++) {
+  for (let i = 1; i <= arr[0].length; i++) {
     let temp = [];
     for (const x of arr) {
       temp.push(x.substring(0, i));
@@ -21,4 +21,8 @@ function distinguiushStr(arr) {
   }
 }
 
-console.log(distinguiushStr(["longlonglog", "longlong", "longlow"]));
+
+
+console.log(distinguiushStr(["seeasue", "sesseysu", "semeas"]));
+console.log(distinguiushStr(["ackky", "kabck", "yokkcs"]));
+console.log(distinguiushStr(["longlong", "lonngtong", "longbig"]));
