@@ -2,7 +2,7 @@ function isExclusive(arr) {
   let stringHash = new Map();
   
   for (const x of arr) {
-    if (stringHash.get(x)) return false;
+    if (stringHash.has(x)) return false;
     stringHash.set(x, 1);
   }
   return true;
