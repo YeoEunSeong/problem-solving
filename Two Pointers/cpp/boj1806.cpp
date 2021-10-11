@@ -1,37 +1,38 @@
-// 문제 및 풀이: https://velog.io/@e7838752/BOJ1806
 #include <iostream>
 #include <algorithm>
 #define INF 987654321
 
 using namespace std;
 
-int n, target;
-int arr[100000];
+int nums[100000];
+int n, s;
 
-int main() {
+int main()
+{
   cin.tie(NULL);
   ios_base::sync_with_stdio(false);
 
-  cin >> n >> target;
-  for (int i = 0; i < n; i++) {
-    cin >> arr[i];
+  int answer = INF;
+  int sum = 0;
+  cin >> n >> s;
+
+  for (int i = 0; i < n; i++)
+  {
+    cin >> nums[i];
   }
 
-  int start = 0, end =0;
-  int sum = arr[start];
-  int result = INF;
+  int left = 0;
+  for (int right = 0; right < n; right++)
+  {
+    sum += nums[right];
 
-  while (start < n && end < n) {
-    if (target <= sum) {
-      result = min(result, end - start + 1);
-      sum -= arr[start];
-      start++;
-    }
-    else {
-      end++;
-      sum += arr[end];
+    while (s <= sum)
+    {
+      answer = min(answer, right - left + 1);
+      sum -= nums[left++];
     }
   }
-  if (result == INF) cout << 0;
-  else cout << result;
+
+  answer = answer == INF ? 0 : answer;
+  cout << answer;
 }
