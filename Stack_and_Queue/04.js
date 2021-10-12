@@ -9,5 +9,3 @@ function solution(s) {
   answer = stack.join("");
   return answer;
 }
-console.log(solution("acbbcaa"));
-console.log(solution("bacccaba"));

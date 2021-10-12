@@ -34,5 +34,3 @@ function solution(s) {
   answer = stack.pop();
   return answer;
 }
-
-console.log(solution("352+*9-"));

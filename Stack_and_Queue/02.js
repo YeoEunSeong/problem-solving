@@ -10,5 +10,3 @@ function solution(s) {
   answer = stack.join("");
   return answer;
 }
-
-console.log(solution("(A(BC)D)EF(G(H)(IJ)K)LM(N)"));
