@@ -20,6 +20,3 @@ function solution(nums) {
   // 정답 배열의 초기값을 0으로 설정했기 때문에 따로 설정해줄 필요가 없음
   return answer;
 }
-
-console.log(solution([50, 57, 52, 53, 51]));
-console.log(solution([50, 46, 55, 76, 65, 50, 55, 53, 55, 50]));
