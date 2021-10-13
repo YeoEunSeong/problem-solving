@@ -1,6 +1,6 @@
 function solution(nums) {
   let answer = 0;
-  nums.sort(function compare(a, b) {
+  nums.sort((a, b) => {
     if (a[1] === b[1]) return a[0] - b[0];
     return a[1] - b[1];
   });
