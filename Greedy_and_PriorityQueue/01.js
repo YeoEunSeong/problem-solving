@@ -7,5 +7,3 @@ function solution(nums, k) {
 
   return answer;
 }
-
-console.log(solution([1, 5, 10], 15));
