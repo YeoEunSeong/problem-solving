@@ -21,8 +21,22 @@ function distinguiushStr(arr) {
   }
 }
 
+function solution(words) {
+  for (let i = 1; i <= words[0].length; i++) {
+    let pre = new Set();
+    for (const word of words) {
+      pre.add(word.substring(0, i));
+    }
+
+    if (pre.size === words.length) return i;
+  }
+}
 
 
-console.log(distinguiushStr(["seeasue", "sesseysu", "semeas"]));
-console.log(distinguiushStr(["ackky", "kabck", "yokkcs"]));
-console.log(distinguiushStr(["longlong", "lonngtong", "longbig"]));
+// console.log(distinguiushStr(["seeasue", "sesseysu", "semeas"]));
+// console.log(distinguiushStr(["ackky", "kabck", "yokkcs"]));
+// console.log(distinguiushStr(["longlong", "lonngtong", "longbig"]));
+
+console.log(solution(["seeasue", "sesseysu", "semeas"]));
+console.log(solution(["ackky", "kabck", "yokkcs"]));
+console.log(solution(["longlong", "lonngtong", "longbig"]));
