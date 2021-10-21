@@ -8,13 +8,10 @@ function compress(str) {
       answer += str[i];
       answer += count > 1 ? count : "";
       count = 1;
-    }
-    else {
+    } else {
       count++;
     }
   }
 
   return answer;
 }
-
-console.log(compress("KKHSSSSSSSE"));
