@@ -34,7 +34,6 @@ function solution(nums) {
     }
   }
 
-  console.log(idx);
   console.log(answer.length);
   for (const x of answer) {
     console.log(x);
@@ -45,10 +44,10 @@ function solution(nums) {
 
 console.log(
   solution([
-    [1, 1, 1],
-    [2, 2, 2],
-    [3, 3, 3],
-    // [4, 2, 2],
-    // [1, 3, 1],
+    [25, 3, 4],
+    [4, 4, 6],
+    [9, 2, 3],
+    [16, 2, 5],
+    [1, 5, 2],
   ])
 );
