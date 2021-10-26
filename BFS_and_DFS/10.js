@@ -1,9 +1,10 @@
 function solution(n, m) {
   let answer = [];
   let tmp = [];
-  let visited = Array(n + 1).fill(0);
+  let cnt = 0;
 
   function dfs(L, s) {
+    cnt++;
     if (L === m) {
       answer.push(tmp.slice());
     } else {
@@ -18,4 +19,4 @@ function solution(n, m) {
   return answer;
 }
 
-console.log(solution(4, 2));
+console.log(solution(10, 2));
